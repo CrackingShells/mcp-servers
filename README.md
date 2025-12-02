@@ -12,3 +12,4 @@ A temporary repository for compiling a [Systems Biology] MCP-server list before 
 2. https://github.com/orgs/Augmented-Nature/repositories
 3. https://github.com/seandavi/ols-mcp-server/
 4. https://github.com/kozo2/idr-mcp-server
+5. https://github.com/edamontology/edammcp
